@@ -26,10 +26,44 @@
     font-size: 5.8vw;
 }
 
+.front_menu_text{
+    font-size: 5rem;
+    z-index: 10; 
+    margin-bottom: 100rem                                                                                                                                                                                                                                                                                                                       ;
+}
+
+.fotw_text{
+    color: #F37474;
+    font-size: 7vw;
+    margin-top: 10rem;
+}
+ .quick_menu_cont{
+     margin-top: 7rem;
+ }
 
 
+/* footer styles */
 
+.footer_color{
+    background-color: #D1CAD1;
+}
 
+.footer_font{
+    color: #545151;
+    
+}
+ .form_text{
+     font-size: 3rem;
+ }
 
+ .footer_button{
+     background-color: #545151;
+     
+ }
 
-
+ .footer_company_text{
+     font-size: 1.5rem;
+ }
+ .icon_size{
+    font-size: 4rem;
+ }
