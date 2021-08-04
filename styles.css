@@ -1,0 +1,35 @@
+/* General Styling */
+.my_body{
+    background-color:#E4E4EC;;
+}
+
+.font_color{
+    color: #625C5C;
+}
+
+/* Navbar styles */
+
+.my_navbar{
+    background-color: #E4E4EC;
+    
+}
+
+.nav_tagline{
+    color: #625C5C;
+    margin-top: 2.5rem;
+    font-weight: bold;
+}
+
+/* Front Banner */
+
+.welcome_text{
+    font-size: 5.8vw;
+}
+
+
+
+
+
+
+
+
