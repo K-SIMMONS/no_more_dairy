@@ -50,10 +50,16 @@
 
 .footer_font{
     color: #545151;
-    
 }
+
+.footer_menu{
+    font-size: 5vh;
+    font-weight: bold;
+}
+
  .form_text{
-     font-size: 3rem;
+     font-size: 2rem;
+     margin-top: 6rem;
  }
 
  .footer_button{
@@ -66,4 +72,26 @@
  }
  .icon_size{
     font-size: 4rem;
+    margin-left: 4.2rem;
+    margin-top: 3rem;
+ }
+
+ .footer_logo{
+     width: 28rem;
+     margin-left: 7.5rem;
+ }
+ 
+ /* Blog post styles (front page) */
+
+ .blog_margin{
+     margin-top: 6rem;
+ }
+
+ .my_p{
+     font-size: 1.4vw;
+ }
+
+ .blog_h1{
+    color: #F37474;
+    
  }
