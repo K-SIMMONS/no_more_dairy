@@ -88,10 +88,48 @@
  }
 
  .my_p{
-     font-size: 1.4vw;
+     font-size: 1.3vw;
+     font-weight: 400;
+     color: #625C5C;
  }
 
  .blog_h1{
     color: #F37474;
     
+ }
+
+ .contains{
+    color: #F37474;
+    display: inline;
+ }
+
+ .ingridients{
+     display: inline;
+     color: #625C5C;
+ }
+
+ /* about page stylings */
+
+ .about_content_text{
+     font-weight: 500;
+ }
+
+ /* locations page */
+
+ .locations_banner_text{
+    color: #625C5C;
+    font-size: 12vw;
+    font-weight: bold;
+ }
+
+ .locations_content_title{
+    color: #625C5C;
+    font-size: 7vw;
+    font-weight: bold;
+
+ }
+
+ .locations_content_text{
+    color: #F37474;
+    font-size: 4vw;
  }
