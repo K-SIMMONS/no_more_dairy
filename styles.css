@@ -103,7 +103,7 @@
     display: inline;
  }
 
- .ingridients{
+ .ingredients{
      display: inline;
      color: #625C5C;
  }
@@ -134,6 +134,31 @@
     font-size: 4vw;
  }
 
+/* single post page stylings */
+
+.sim_margin{
+    margin-top: 8vw;
+}
+
+.sim_text{
+    font-size: 5vw;
+}
+
+.contains_text{
+    font-size: 7vw;
+    
+}
+
+.description_font{
+    font-size: 5vw;
+    line-height: 2;
+    
+}
+
+.post_p_text{
+    font-size: 2vw;
+    
+}
 
  @media screen and (max-width: 800px) {
 
